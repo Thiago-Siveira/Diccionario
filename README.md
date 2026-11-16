@@ -19,3 +19,12 @@ The project includes dedicated unit test suites (`AlphabetTestSuite` and `Ocurre
 ## 🛠️ Tech Stack
 * **Language:** C++ (Manual memory management with pointers and dynamic allocation)
 * **Concepts:** Abstract Data Types (ADTs), Object-Oriented Design principles, Unit Testing, Git.
+
+## 💻 How to Compile & Run
+
+From the terminal, navigate to the `TP_Grupal` directory and compile using `g++`:
+
+```bash
+cd TP_Grupal
+g++ *.cpp -o test_runner
+./test_runner
